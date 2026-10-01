@@ -1,9 +1,8 @@
 build/
 *.o
 *.user
-LAB_2
 .vscode/
-libs/
 *.cache
 .cache/
-*lupdate
+.clang-format
+doc/
